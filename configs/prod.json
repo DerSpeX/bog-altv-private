@@ -1,16 +1,16 @@
 {
-    "name": "Athena 3.0.0",
+    "name": "BOG Roleplay Server | Tech Alpha",
     "host": "0.0.0.0",
     "env": "prod",
     "port": 7788,
-    "players": 512,
-    "password": null,
+    "players": 128,
+    "password": "SliBknot19",
     "token": null,
     "announce": false,
-    "gamemode": "Roleplay",
-    "website": "athenaframework.com",
+    "gamemode": "Hardcore Roleplay",
+    "website": "ffmg.info",
     "language": "en",
-    "description": "Standard Production Configuration",
+    "description": "Dieses Projekt befindet sich noch im Aufbau...Weitere Informationen folgen demnächst!",
     "debug": true,
     "streamingDistance": 400,
     "migrationDistance": 150,
@@ -25,10 +25,10 @@
         "core"
     ],
     "tags": [
-        "athena",
-        "framework",
-        "version",
-        "3"
+        "Hardcore",
+        "Roleplay",
+        "for",
+        "Everyone"
     ],
     "useEarlyAuth": false,
     "earlyAuthUrl": null,
