@@ -1,8 +1,9 @@
 import { LocaleFormat } from '../interfaces/localeFormat';
 import en from './languages/en'; // Importing the English Locale
+import de from './languages/de'; // Importing the German Locale
 export const placeholder = `_%_`;
 
-let defaultLanguage = 'en';
+let defaultLanguage = 'de';
 
 /**
  * All locales have a base language in ISO-639-1.
@@ -18,7 +19,8 @@ let defaultLanguage = 'en';
  */
 
 const locales: LocaleFormat = {
-    en,
+    //en,
+    de,
     // Additional languages can be added here...
 };
 
@@ -29,7 +31,7 @@ export class LocaleController {
      * @param {string} [iso639='en']
      * @memberof LocaleController
      */
-    static setLanguage(iso639: string = 'en') {
+    static setLanguage(iso639: string = 'de') {
         defaultLanguage = iso639;
     }
 

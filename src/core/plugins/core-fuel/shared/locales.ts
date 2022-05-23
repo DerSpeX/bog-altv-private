@@ -1,5 +1,5 @@
 export const LOCALE_FUEL = {
-    VEHICLE_NO_FUEL: 'Vehicle has no fuel.',
-    VEHICLE_IS_BEING_REFUELED: 'Vehicle is being refueled still.',
-    VEHICLE_IS_NOT_DRIVER: 'You are not the driver of this vehicle.',
+    VEHICLE_NO_FUEL: 'Das Fahrzeug hat keinen Kraftstoff/Strom mehr.',
+    VEHICLE_IS_BEING_REFUELED: 'Das Fahrzeug wird gerade noch betankt/geladen.',
+    VEHICLE_IS_NOT_DRIVER: 'Du bist nicht der Fahrer dieses Fahrzeugs.',
 };

@@ -1,14 +1,14 @@
 export const CHARACTER_SELECT_LOCALE = {
-    LABEL_DELETE: 'Delete',
-    LABEL_NEW: 'New',
-    LABEL_SELECT: 'Select',
-    LABEL_YES: 'Yes',
-    LABEL_NO: 'No',
-    LABEL_CONFIRM_DELETE: 'Are you sure you want to delete your character ', // Leave space at end.
+    LABEL_DELETE: 'Löschen',
+    LABEL_NEW: 'Neu',
+    LABEL_SELECT: 'Auswählen',
+    LABEL_YES: 'Ja',
+    LABEL_NO: 'Nein',
+    LABEL_CONFIRM_DELETE: 'Bist du dir sicher folgenden Charakter zu löschen  ', // Leave space at end.
     LABEL_NAME: 'Name',
-    LABEL_AGE: 'Age',
-    LABEL_GENDER: 'Gender',
-    LABEL_HOURS: 'Hours',
-    LABEL_CASH: 'Cash',
-    LABEL_BANK: 'Bank',
+    LABEL_AGE: 'Alter',
+    LABEL_GENDER: 'Geschlecht',
+    LABEL_HOURS: 'Stunden',
+    LABEL_CASH: 'Bargeld',
+    LABEL_BANK: 'Bankkonto',
 };

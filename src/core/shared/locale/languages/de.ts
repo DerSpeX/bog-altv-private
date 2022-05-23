@@ -8,9 +8,9 @@ import { LOCALE_KEYS } from './keys';
  */
 export default {
     // Commands
-    [LOCALE_KEYS.COMMAND_ADMIN_CHAT]: `_%_ [message] - Speak to other admins`,
-    [LOCALE_KEYS.COMMAND_ACCEPT_DEATH]: `_%_ - Respawn at hospital after death`,
-    [LOCALE_KEYS.COMMAND_ACTION_MENU]: `_%_ - Create a test action menu`,
+    [LOCALE_KEYS.COMMAND_ADMIN_CHAT]: `_%_ [message] - Sprich mit anderen Administratoren`,
+    [LOCALE_KEYS.COMMAND_ACCEPT_DEATH]: `_%_ - Respawn nach dem Tod im Krankenhaus`,
+    [LOCALE_KEYS.COMMAND_ACTION_MENU]: `_%_ - Erstellen Sie ein Testaktionsmenü`,
     [LOCALE_KEYS.COMMAND_ADD_VEHICLE]: `_%_ [model] - Add a vehicle to your player`,
     [LOCALE_KEYS.COMMAND_ADD_WHITELIST]: `_%_ [discord] - Whitelist a player by Discord ID`,
     [LOCALE_KEYS.COMMAND_OOC]: `_%_ [message] - Speak out of character`,
@@ -130,7 +130,7 @@ export default {
     [LOCALE_KEYS.VEHICLE_NO_FUEL]: `Vehicle has no fuel.`,
     [LOCALE_KEYS.VEHICLE_LOCK_SET_TO]: `Vehicle lock has been set to: _%_`,
     [LOCALE_KEYS.VEHICLE_TOGGLE_LOCK]: `%`,
-    [LOCALE_KEYS.VEHICLE_TOGGLE_ENGINE]: `Toggle Engine`,
+    [LOCALE_KEYS.VEHICLE_TOGGLE_ENGINE]: `Motor an/ausschalten`,
     [LOCALE_KEYS.VEHICLE_IS_LOCKED]: `Closest vehicle is locked.`,
     [LOCALE_KEYS.VEHICLE_ENTER_VEHICLE]: `Get Into / Exit Vehicle`,
     [LOCALE_KEYS.VEHICLE_TOO_FAR]: `Vehicle is too far away.`,
